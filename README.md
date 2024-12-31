@@ -49,7 +49,7 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 ## How to Run
 
 ```bash
-$ git clone https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient.git
+$ git clone https://github.com/Ishaan400/MultiThreadedProxyServerClient.git
 $ cd MultiThreadedProxyServerClient
 $ make all
 $ ./proxy <port no.>
