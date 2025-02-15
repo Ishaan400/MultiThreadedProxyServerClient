@@ -64,7 +64,7 @@ $ ./proxy <port no.>
 
 # Converting a Multithreaded Proxy Server from C to C++ with Minimal Changes
 
-This guide provides a step-by-step process to convert a multithreaded proxy server from C to C++ while making minimal changes to the codebase.
+There is not much work to be done to change the codebase into c++. Here are some recommendations
 
 ---
 
